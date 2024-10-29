@@ -1,0 +1,28 @@
+td{
+    border: 1px solid rgb(0, 229, 255);
+    padding: 2px;
+    text-align: center;
+    background-color: rgb(112, 135, 178);
+    border-radius:6px;
+    color: rgb(156, 220, 243);
+}
+th{
+    padding: 2px;
+    text-align: center;
+    background-color: cyan;
+    border-radius: 6px;
+    color: rgb(29, 27, 27);
+}
+table{
+    background-color: grey;
+    width: 100px;
+    padding: 5px;
+    border-radius: 10px;
+
+}
+body{
+    background-color: darkgray;
+}
+h1{
+    color: blueviolet;
+}
